@@ -6,51 +6,33 @@
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=560&height=45&lines=▸+Frontend+Engineer+%7C+React+%26+Next.js;▸+Backend+Dev+%7C+Express+%26+PostgreSQL;▸+Based+in+Dhaka%2C+Bangladesh+🇧🇩;▸+Currently+open+to+work+✅" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tausifislamsheik&style=flat-square&color=00ff88&label=VISITORS&labelColor=0d1117)
-![GitHub followers](https://img.shields.io/github/followers/tausifislamsheik?style=flat-square&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/tausifislamsheik?style=flat-square&color=7928ca&labelColor=0d1117&label=STARS)
-
 </div>
 
 ---
 
-## ⚡ `whoami`
+## ⚡ Who Am I
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifislamsheik&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" width="40%"/>
-```bash
-$ cat developer.json
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifislamsheik&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" width="45%" />
+</div>
+
 ```json
 {
-  "name"      : "Tausif Islam Sheik",
-  "location"  : "Dhaka, Bangladesh 🇧🇩",
-  "role"      : "Full-Stack Developer",
-  "stack"     : ["Next.js", "TypeScript", "PostgreSQL"],
-  "learning"  : ["Prisma ORM", "Docker", "Testing"],
-  "available" : true,
-  "contact"   : "linkedin.com/in/tausifislamsheik"
+  "name": "Tausif Islam Sheik",
+  "location": "Dhaka, Bangladesh",
+  "role": "Full-Stack Developer",
+  "stack": ["Next.js", "TypeScript", "Express.js", "Prisma", "PostgreSQL"],
+  "available": true,
+  "contact": tausifislamsheik1@gmail.com,
+  "status": "Building cool stuff. Open to opportunities."
 }
-```
-```bash
-$ echo $STATUS
-▸ Building cool stuff. Open to opportunities.
 ```
 
 <br clear="right"/>
 
-<div align="center">
-
-![](https://img.shields.io/badge/📍-Dhaka%2C_Bangladesh-00ff88?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/💼-Open_to_Work-00d4ff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🕐-UTC+06:00-7928ca?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
 ---
 
-## 🛠️ `tech --stack`
+## 🛠️ `Tech Stack`
 
 <div align="center">
 
@@ -70,7 +52,7 @@ $ echo $STATUS
 
 ---
 
-## 🚀 `ls ./projects`
+## 🚀 `Projects`
 
 <div align="center">
 
@@ -86,22 +68,18 @@ $ echo $STATUS
 
 ---
 
-## 📊 `git stats`
+## 📊 `Git Stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tausifislamsheik&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&icon_color=00d4ff&rank_icon=github&include_all_commits=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifislamsheik&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tausifislamsheik&bg_color=0d1117&color=00ff88&line=00d4ff&point=7928ca&area=true&hide_border=true&area_color=00ff8820" width="98%" />
-
 </div>
 
 ---
 
-## 🌐 `connect --with-me`
+## 🌐 `Connect With Me`
 
 <div align="center">
 
@@ -110,9 +88,6 @@ $ echo $STATUS
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/tausifislamsheik" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" title="GitHub" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://yourportfolio.dev" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/00ff88" width="40" height="40" title="Portfolio" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/tausifislmsheik" target="_blank">
   <img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" title="X / Twitter" />
