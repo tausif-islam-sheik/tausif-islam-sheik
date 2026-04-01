@@ -1,11 +1,5 @@
 <div align="center">
-
-<!-- Glitch Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d4ff,100:7928ca&height=180&section=header&text=TAUSIF%20ISLAM%20SHEIK&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=〈%20Full-Stack%20Developer%20/%20Builder%20〉&descAlignY=68&descSize=16&descColor=00ff88" width="100%"/>
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=560&height=45&lines=▸+Frontend+Engineer+%7C+React+%26+Next.js;▸+Backend+Dev+%7C+Express+%26+PostgreSQL;▸+Based+in+Dhaka%2C+Bangladesh+🇧🇩;▸+Currently+open+to+work+✅" alt="Typing SVG" />
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ---
@@ -42,15 +36,6 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 ---
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
 ###
 
@@ -62,9 +47,9 @@ With a strong focus on clean code, performance optimization, and best practices,
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/refs/heads/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
 </picture>
 
 ###
