@@ -69,28 +69,15 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 ---
 
-## 🌐 `Connect With Me`
+###
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-<a href="https://linkedin.com/in/tausifislamsheik" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/00d4ff" width="40" height="40" title="LinkedIn" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/tausifislamsheik" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" title="GitHub" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/tausifislmsheik" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" title="X / Twitter" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/tausifislamsheik" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/00d4ff" width="40" height="40" title="Facebook" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/tausifislamsheik/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" title="Instagram" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://hikmah.net/@tausifislamsheik" target="_blank">
-  <img src="https://cdn.simpleicons.org/bookstack/00ff88" width="40" height="40" title="Hikmah" />
-</a>
+###
 
 <br/><br/>
 ```bash
