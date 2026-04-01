@@ -42,32 +42,48 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 ---
 
-## 🚀 `Projects`
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
 
 <div align="center">
-
-| # | Project | Description | Stack | Live |
-|:---:|:--------|:------------|:------|:----:|
-| 01 | [**🎟️ Ticket Booking**](https://tausifislamsheik.github.io/Online-Tickets/) | Interactive seat selection system with real-time UI | `JS` `Tailwind` | [![demo](https://img.shields.io/badge/▶_Live-00ff88?style=flat-square&labelColor=0d1117)](https://tausifislamsheik.github.io/Online-Tickets/) |
-| 02 | [**🐾 Pet Adoption**](https://tausifislamsheik.github.io/Peddy/) | Browse & adopt pets via live REST API | `JS` `Tailwind` | [![demo](https://img.shields.io/badge/▶_Live-00d4ff?style=flat-square&labelColor=0d1117)](https://tausifislamsheik.github.io/Peddy/) |
-| 03 | [**🤝 Donate Bangladesh**](https://tausifislamsheik.github.io/Donate-Bangladesh/) | Donation campaign web app with tracking | `JS` `Tailwind` | [![demo](https://img.shields.io/badge/▶_Live-7928ca?style=flat-square&labelColor=0d1117)](https://tausifislamsheik.github.io/Donate-Bangladesh/) |
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-> `// TODO:` Full-stack projects with **Next.js + Prisma + PostgreSQL** dropping soon...
-
----
-
-## 📊 `Git Stats`
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tausif-islam-sheik&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&icon_color=00d4ff&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-islam-sheik&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%" />
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
@@ -78,11 +94,6 @@ With a strong focus on clean code, performance optimization, and best practices,
 </picture>
 
 ###
-
-<br/><br/>
-```bash
-$ echo "Thanks for visiting! Let's build something great together. 🚀"
-```
 
 </div>
 
