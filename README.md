@@ -62,8 +62,8 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tausifislamsheik&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&icon_color=00d4ff&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifislamsheik&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tausif-islam-sheik&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&icon_color=00d4ff&rank_icon=github&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tausif-islam-sheik&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%" />
 
 </div>
 
