@@ -39,7 +39,7 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥 `My Stats`
 
 ###
 
@@ -51,17 +51,12 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
 </picture>
+
 
 ###
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:00ff88&height=100&section=footer" width="100%"/>
-
-</div>
