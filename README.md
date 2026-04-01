@@ -10,25 +10,15 @@
 
 ---
 
-## ⚡ Who Am I
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifislamsheik&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" width="45%" />
-</div>
+## 👨‍💻 About Me
 
-```json
-{
-  "name": "Tausif Islam Sheik",
-  "location": "Dhaka, Bangladesh",
-  "role": "Full-Stack Developer",
-  "stack": ["Next.js", "TypeScript", "Express.js", "Prisma", "PostgreSQL"],
-  "available": true,
-  "contact": tausifislamsheik1@gmail.com,
-  "status": "Building cool stuff. Open to opportunities."
-}
-```
+I’m a Full-Stack Developer based in Dhaka, Bangladesh, passionate about building scalable, efficient, and user-focused web applications. I enjoy working across the entire development lifecycle—from designing intuitive frontends to developing robust backend systems and APIs.
 
-<br clear="right"/>
+I primarily work with modern technologies including **Next.js, React.js, TypeScript, Node.js, Express.js, and PostgreSQL**, enabling me to build fast, reliable, and production-ready applications.
+
+With a strong focus on clean code, performance optimization, and best practices, I aim to deliver high-quality solutions that solve real-world problems. I’m continuously learning, exploring new tools, and collaborating with others to create impactful digital experiences.
+
 
 ---
 
