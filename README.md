@@ -2,6 +2,20 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<!-- HEADER START -->
+
+<h1 align="center">Hi 👋, I'm Tausif Islam Sheik</h1>
+
+<h3 align="center">
+  Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+Performance+Focused;Open+to+Work+%F0%9F%9A%80" />
+</p>
+
+<!-- HEADER END -->
+
 ---
 
 
@@ -24,9 +38,11 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark&perline=7" />
 
+
 **[ BACKEND & DATABASE ]**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma&theme=dark&perline=7" />
+
 
 **[ TOOLS & DEVOPS ]**
 
