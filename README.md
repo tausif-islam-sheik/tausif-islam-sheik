@@ -50,7 +50,6 @@ With a strong focus on clean code, performance optimization, and best practices,
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/pacman.svg">
 </picture>
