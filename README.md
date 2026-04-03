@@ -1,6 +1,10 @@
-<div align="center">
+![](https://github.com/tausif-islam-sheik/main/icons/header_1.png)
+
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+</div> -->
+
+
 
 <!-- HEADER START -->
 
