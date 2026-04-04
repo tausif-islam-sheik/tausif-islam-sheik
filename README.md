@@ -2,12 +2,6 @@
 ![](https://github.com/tausif-islam-sheik/main/header_1.png)
 
 
-<!-- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div> -->
-
-
-
 <!-- HEADER START -->
 
 <h1 align="center">
@@ -47,11 +41,9 @@ With a strong focus on clean code, performance optimization, and best practices,
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark&perline=7" />
 
 
-
 **[ BACKEND & DATABASE ]**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma&theme=dark&perline=7" />
-
 
 
 **[ TOOLS & DEVOPS ]**
@@ -70,7 +62,7 @@ With a strong focus on clean code, performance optimization, and best practices,
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tausif-islam-sheik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tausif-islam-sheik&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
