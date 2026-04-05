@@ -9,20 +9,20 @@
     <!-- Light Mode (Black Text) -->
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
     <!-- Dark Mode (White Text) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=ffffff&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=0A66C2&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
     <!-- Default Image (Fallback) -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" alt="introduction" />
   </picture>
 </div>
 
 
-<h3 align="center">
+<h2 align="center">
   Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL
-</h3>
+</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+Performance+Focused;Open+to+Work+%F0%9F%9A%80" />
-</p>
+</p> -->
 
 <!-- HEADER END -->
 
