@@ -75,6 +75,10 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 ###
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tausif-islam-sheik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/refs/heads/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausif-islam-sheik/pacman-contribution/output/snake.svg">
