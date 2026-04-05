@@ -70,7 +70,7 @@ With a strong focus on clean code, performance optimization, and best practices,
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tausif-islam-sheik&theme=react&border=61dafb&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tausif-islam-sheik&theme=react&border=61dafb&hide_border=true" height="200" width=450 alt="streak graph"  />
 </div>
 
 ###
