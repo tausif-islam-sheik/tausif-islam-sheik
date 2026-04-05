@@ -9,7 +9,7 @@
     <!-- Light Mode (Black Text) -->
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
     <!-- Dark Mode (White Text) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=0A66C2&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=4FC3F7&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
     <!-- Default Image (Fallback) -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" alt="introduction" />
   </picture>
