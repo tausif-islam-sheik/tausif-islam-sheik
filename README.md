@@ -17,7 +17,7 @@
 
 
 <h2 align="center">
-  Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL
+  Full-Stack Developer | Next.js • TypeScript • Go • Node.js • PostgreSQL
 </h2>
 
 <!-- <p align="center">
@@ -33,7 +33,7 @@
 
 I’m a Full-Stack Developer based in Dhaka, Bangladesh, passionate about building scalable, efficient, and user-focused web applications. I enjoy working across the entire development lifecycle—from designing intuitive frontends to developing robust backend systems and APIs.
 
-I primarily work with modern technologies including **Next.js, React.js, TypeScript, Node.js, Express.js, and PostgreSQL**, enabling me to build fast, reliable, and production-ready applications.
+I primarily work with modern technologies including **Next.js, TypeScript, Go, Node.js, Express.js, and PostgreSQL**, enabling me to build fast, reliable, and production-ready applications.
 
 With a strong focus on clean code, performance optimization, and best practices, I aim to deliver high-quality solutions that solve real-world problems. I’m continuously learning, exploring new tools, and collaborating with others to create impactful digital experiences.
 
