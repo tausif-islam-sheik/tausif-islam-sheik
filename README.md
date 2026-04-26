@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <p>Full-Stack Developer </p>
+  <h3>Full-Stack Developer </h3>
   <p> Next.js • TypeScript • Go • Node.js • PostgreSQL </p>
 </div>
 
