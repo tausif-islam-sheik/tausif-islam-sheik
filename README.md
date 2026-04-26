@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=38&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=35&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
 </div>
 
 <!-- <div align="center">
