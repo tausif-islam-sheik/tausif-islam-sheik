@@ -15,7 +15,6 @@
   </picture>
 </div>
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=35&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
 </div>
@@ -36,11 +35,11 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full-Stack Developer based in Dhaka, Bangladesh, passionate about building scalable, efficient, and user-focused web applications. I enjoy working across the entire development lifecycle—from designing intuitive frontends to developing robust backend systems and APIs.
+I’m a Full-Stack Developer based in Dhaka, Bangladesh, with a passion for building scalable, efficient, and user-centered web applications. I enjoy working across the entire development lifecycle from crafting intuitive frontend experiences to developing robust backend systems and APIs.
 
-I primarily work with modern technologies including **Next.js, TypeScript, Go, Node.js, Express.js, and PostgreSQL**, enabling me to build fast, reliable, and production-ready applications.
+My core tech stack includes Next.js, TypeScript, Go, Node.js, Express.js, and PostgreSQL, which I use to create fast, reliable, and production-ready solutions.
 
-With a strong focus on clean code, performance optimization, and best practices, I aim to deliver high-quality solutions that solve real-world problems. I’m continuously learning, exploring new tools, and collaborating with others to create impactful digital experiences.
+I’m committed to writing clean, maintainable code, optimizing performance, and following industry best practices to deliver high-quality products that solve real-world problems. I’m also continuously learning, exploring new technologies, and collaborating with others to build meaningful digital experiences.
 
 
 ---
@@ -56,7 +55,7 @@ With a strong focus on clean code, performance optimization, and best practices,
 
 **[ BACKEND & DATABASE ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,postgresql,prisma&theme=dark&perline=7" />
 
 
 **[ TOOLS & DEVOPS ]**
