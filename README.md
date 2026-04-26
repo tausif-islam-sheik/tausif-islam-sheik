@@ -15,10 +15,15 @@
   </picture>
 </div>
 
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=42&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
+</div>
+
+<!-- <div align="center">
   <h3>Full-Stack Developer </h3>
   <p> Next.js • TypeScript • Go • Node.js • PostgreSQL </p>
-</div>
+</div> -->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+Performance+Focused;Open+to+Work+%F0%9F%9A%80" />
