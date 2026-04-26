@@ -15,10 +15,10 @@
   </picture>
 </div>
 
-
-<h2 align="center">
-  Full-Stack Developer | Next.js • TypeScript • Go • Node.js • PostgreSQL
-</h2>
+<div align="center">
+  <h1>Full-Stack Developer </h1>
+  <h2> Next.js • TypeScript • Go • Node.js • PostgreSQL </h2>
+</div>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+Performance+Focused;Open+to+Work+%F0%9F%9A%80" />
