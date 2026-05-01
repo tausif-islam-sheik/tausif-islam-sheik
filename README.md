@@ -7,22 +7,22 @@
 <div align="center">
   <picture>
     <!-- Light Mode (Black Text) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!;Full-Stack+Developer" />
     <!-- Dark Mode (White Text) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=4FC3F7&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=4FC3F7&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!;Full-Stack+Developer" />
     <!-- Default Image (Fallback) -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!" alt="introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=000000&lines=Hello+World!+👋;+I'm+Tausif+Islam+Sheik!;Full-Stack+Developer" alt="introduction" />
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=35&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
-</div>
-
 <!-- <div align="center">
-  <h3>Full-Stack Developer </h3>
-  <p> Next.js • TypeScript • Go • Node.js • PostgreSQL </p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&text=Full-Stack%20Developer&desc=Next.js%20•%20TypeScript%20•%20Go%20•%20Node.js%20•%20PostgreSQL&fontColor=ffffff&fontSize=35&descColor=aaaaaa&descSize=22&height=160&fontAlignY=45&descAlignY=80" />
 </div> -->
+
+ <div align="center">
+  <!-- <h3>Full-Stack Developer </h3> -->
+  <p> Next.js • TypeScript • Go • Express.js • PostgreSQL </p>
+</div>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%7C+Backend+%7C+Database;Clean+Code+%7C+Performance+Focused;Open+to+Work+%F0%9F%9A%80" />
