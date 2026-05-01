@@ -30,8 +30,6 @@
 
 <!-- HEADER END -->
 
----
-
 
 ## 👨‍💻 About Me
 
