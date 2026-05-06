@@ -1,5 +1,5 @@
-![](header_2.png)
-![](https://github.com/tausif-islam-sheik/main/header_2.png)
+![](cover_photo.png)
+![](https://github.com/tausif-islam-sheik/main/cover_photo.png)
 
 
 <!-- HEADER START -->
