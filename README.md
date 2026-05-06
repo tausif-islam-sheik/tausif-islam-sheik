@@ -21,7 +21,7 @@
 
  <div align="center">
   <!-- <h3>Full-Stack Developer </h3> -->
-  <h2> <strong>Next.js • TypeScript • Go • Express.js • PostgreSQL</strong> </h2>
+  <h2> <strong>Next.js • TypeScript • Express.js • PostgreSQL</strong> </h2>
 </div>
 
 <!-- <p align="center">
@@ -35,7 +35,7 @@
 
 I’m a Full-Stack Developer based in Dhaka, Bangladesh, with a passion for building scalable, efficient, and user-centered web applications. I enjoy working across the entire development lifecycle from crafting intuitive frontend experiences to developing robust backend systems and APIs.
 
-My core tech stack includes Next.js, TypeScript, Go, Node.js, Express.js, and PostgreSQL, which I use to create fast, reliable, and production-ready solutions.
+My core tech stack includes Next.js, TypeScript, Node.js, Express.js, and PostgreSQL, which I use to create fast, reliable, and production-ready solutions.
 
 I’m committed to writing clean, maintainable code, optimizing performance, and following industry best practices to deliver high-quality products that solve real-world problems. I’m also continuously learning, exploring new technologies, and collaborating with others to build meaningful digital experiences.
 
@@ -53,7 +53,7 @@ I’m committed to writing clean, maintainable code, optimizing performance, and
 
 **[ BACKEND & DATABASE ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,postgresql,prisma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma&theme=dark&perline=7" />
 
 
 **[ TOOLS & DEVOPS ]**
