@@ -92,3 +92,35 @@ I’m committed to writing clean, maintainable code, optimizing performance, and
 
 </div>
 
+---
+
+## 📬 Contact & Links
+
+<div align="left">
+
+📫 &nbsp;**Email** &nbsp;→&nbsp; [tausifislamsheik1@gmail.com](mailto:tausifislamsheik1@gmail.com)
+
+🌐 &nbsp;**Portfolio** &nbsp;→&nbsp; [tausif-islam-sheik.vercel.app](https://tausif-islam-sheik.vercel.app)
+
+</div>
+
+<br>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tausif-islam-sheik">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/tausifislmsheik">
+  <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter / X" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/tausif_islam_sheik">
+  <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+</a>
+
+</div>
+
