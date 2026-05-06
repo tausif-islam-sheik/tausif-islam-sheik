@@ -1,4 +1,4 @@
-![](header.png)
+![](Github Cover Photo.png)
 ![](https://github.com/tausif-islam-sheik/main/header_1.png)
 
 
