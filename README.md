@@ -33,11 +33,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full-Stack Developer based in Dhaka, Bangladesh, with a passion for building scalable, efficient, and user-centered web applications. I enjoy working across the entire development lifecycle from crafting intuitive frontend experiences to developing robust backend systems and APIs.
+I’m a Full-Stack Developer from Dhaka, Bangladesh, passionate about building fast, scalable, and meaningful web applications that combine clean engineering with thoughtful user experience. I enjoy working across the full stack—designing intuitive interfaces on the frontend and developing robust, well-structured backend systems and APIs that power them.
 
-My core tech stack includes Next.js, TypeScript, Node.js, Express.js, and PostgreSQL, which I use to create fast, reliable, and production-ready solutions.
+My primary tech stack includes Next.js, TypeScript, Node.js, Express.js, and PostgreSQL, which I use to build production-ready applications focused on performance, scalability, and maintainability.
 
-I’m committed to writing clean, maintainable code, optimizing performance, and following industry best practices to deliver high-quality products that solve real-world problems. I’m also continuously learning, exploring new technologies, and collaborating with others to build meaningful digital experiences.
+I also work on AI-powered features and projects, integrating intelligent capabilities such as automation, smart recommendations, and data-driven decision-making into web applications to create more dynamic and user-centric experiences.
+
+I care about clean architecture, scalable system design, and writing maintainable code that stands the test of time. Beyond features and functionality, I focus on solving real-world problems and improving how users interact with digital products.
+
+Currently, I’m continuously learning, building, and exploring modern technologies—especially at the intersection of full-stack development and AI—to create impactful and innovative solutions.
 
 
 ---
