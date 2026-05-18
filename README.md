@@ -33,15 +33,28 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full-Stack Developer from Dhaka, Bangladesh, passionate about building fast, scalable, and meaningful web applications that combine clean engineering with thoughtful user experience. I enjoy working across the full stack, designing intuitive interfaces on the frontend and developing robust, well-structured backend systems and APIs that power them.
+I’m a Full-Stack Developer from Bangladesh, passionate about building fast, scalable, and meaningful web applications that combine clean engineering with thoughtful user experience. I enjoy working across the full stack, from designing intuitive frontend interfaces to developing robust backend systems and APIs that power modern applications.
 
-My primary tech stack includes Next.js, TypeScript, Node.js, Express.js, and PostgreSQL, which I use to build production-ready applications focused on performance, scalability, and maintainability.
+My primary tech stack includes:
 
-I also work on AI-powered features and projects, integrating intelligent capabilities such as automation, smart recommendations, and data-driven decision-making into web applications to create more dynamic and user-centric experiences.
+* Next.js
+* TypeScript
+* Express.js
+* PostgreSQL
 
-I care about clean architecture, scalable system design, and writing maintainable code that stands the test of time. Beyond features and functionality, I focus on solving real-world problems and improving how users interact with digital products.
+I focus on building production-ready applications that emphasize performance, scalability, maintainability, and clean architecture. I also work on AI-powered features and integrations to create smarter and more dynamic user experiences.
 
-Currently, I’m continuously learning, building, and exploring modern technologies, especially at the intersection of full-stack development and AI to create impactful and innovative solutions.
+Key areas I work on include:
+
+* Full-Stack Web Development
+* REST API Development
+* Scalable Backend Architecture
+* Authentication & Authorization
+* AI-Powered Features & Automation
+* Performance Optimization
+* Clean & Maintainable Code
+
+Beyond technology, I care deeply about solving real-world problems and improving how users interact with digital products. Currently, I’m continuously learning and exploring modern technologies, especially at the intersection of Full-Stack Development and AI, to build impactful and innovative solutions.
 
 
 ---
