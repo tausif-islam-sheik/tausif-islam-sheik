@@ -75,7 +75,7 @@ Beyond technology, I care deeply about solving real-world problems and improving
 
 **[ TOOLS & DEVOPS ]**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman&theme=dark&perline=7" />
 
 </div>
 
