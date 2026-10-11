@@ -70,7 +70,7 @@ Beyond technology, I care deeply about solving real-world problems and improving
 
 **[ BACKEND & DATABASE ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgresql,prisma&theme=dark&perline=7" />
 
 
 **[ TOOLS & DEVOPS ]**
