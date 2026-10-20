@@ -39,7 +39,7 @@ My primary tech stack includes:
 
 * Next.js
 * TypeScript
-* Express.js
+* Nest.js
 * PostgreSQL
 
 I focus on building production-ready applications that emphasize performance, scalability, maintainability, and clean architecture. I also work on AI-powered features and integrations to create smarter and more dynamic user experiences.
